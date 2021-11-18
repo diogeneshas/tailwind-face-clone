@@ -7,10 +7,10 @@ module.exports = {
         '30': '7.5rem',
         '290px': '290px',
         '396px': '396px',
-        '500': '500px',
-        '980': '980px'
+        '500px': '500px',
+        '980px': '980px'
       },
-      fontsize: {
+      fontSize: {
         'subtitle': '1.7rem'
       },
       colors: {
